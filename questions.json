@@ -1,0 +1,263 @@
+[
+    {
+        "question": "What is the capital of India?",
+        "options": [
+            "Delhi",
+            "Mumbai",
+            "Kolkata",
+            "Chennai"
+        ],
+        "answer": 0
+    },
+
+    {
+        "question": "Which tag is used for JavaScript?",
+        "options": [
+            "<js>",
+            "<javascript>",
+            "<script>",
+            "<scripting>"
+        ],
+        "answer": 2
+    },
+
+    {
+        "question": "HTML stands for?",
+        "options": [
+            "Hyper Trainer Markup Language",
+            "Hyper Text Markup Language",
+            "HighText Machine Language",
+            "None"
+        ],
+        "answer": 1
+    },
+     {
+        "question": "Which is not a programming language?",
+        "options": [
+            "Python",
+            "Java",
+            "HTML",
+            "C++"
+        ],
+        "answer": 2
+    },
+
+    {
+        "question": "What does CSS stand for?",
+        "options": [
+            "Cascading Style Sheets",
+            "Creative Style System",
+            "Computer Style Sheets",
+            "Cascading System Styles"
+        ],
+        "answer": 0
+    },   {
+        "question": "Which is a front-end framework?",
+        "options": [
+            "Django",
+            "Flask",
+            "React",
+            "Spring"
+        ],
+        "answer": 2
+    },
+
+    {
+        "question": "What is the main purpose of HTML?",
+        "options": [
+            "To style web pages",
+            "To structure web content",
+            "To create databases",
+            "To manage server-side logic"
+        ],
+        "answer": 1
+    },
+
+    {
+        "question": "Which of the following is a CSS preprocessor?",
+        "options": [
+            "Sass",
+            "JavaScript",
+            "HTML",
+            "Python"
+        ],
+        "answer": 0
+    },
+    
+    {
+        "question": "Which HTML element is used to define the structure of a webpage?",
+        "options": [
+            "<div>",
+            "<span>",
+            "<section>",
+            "<article>"
+        ],
+        "answer": 0
+    },
+
+    {
+        "question": "What is the purpose of the <head> tag in HTML?",
+        "options": [
+            "To display the main content",
+            "To include metadata and links to stylesheets",
+            "To create a footer",
+            "To define a navigation menu"
+        ],
+        "answer": 1
+    },
+
+    {
+        "question": "Which of the following is a JavaScript framework?",
+        "options": [
+            "Django",
+            "Flask",
+            "Angular",
+            "Ruby on Rails"
+        ],
+        "answer": 2
+    },
+
+    {
+        "question": "What is the purpose of the <body> tag in HTML?",
+        "options": [
+            "To include metadata",
+            "To define the main content of the webpage",
+            "To create a header",
+            "To link external stylesheets"
+        ],
+        "answer": 1
+    },
+
+    {
+        "question": "Which of the following is used to style HTML elements?",
+        "options": [
+            "JavaScript",
+            "CSS",
+            "HTML",
+            "Python"
+        ],
+        "answer": 1
+    },
+
+    {
+        "question": "What does API stand for?",
+        "options": [
+            "Application Programming Interface",
+            "Application Program Interface",
+            "Application Programming Interchange",
+            "Application Program Interchange"
+        ],
+        "answer": 0
+    },
+
+    {
+        "question": "What does JSON stand for?",
+        "options": [
+            "JavaScript Object Notation",
+            "JavaScript Online Notation",
+            "JavaScript Object Network",
+            "JavaScript Open Notation"
+        ],
+        "answer": 0
+    },
+
+    {
+        "question": "Which of the following is a version control system?",
+        "options": [
+            "Git",
+            "Docker",
+            "Kubernetes",
+            "Nginx"
+        ],
+        "answer": 0
+    },
+
+    {
+        "question": "What is the purpose of the <footer> tag in HTML?",
+        "options": [
+            "To define the main content",
+            "To create a navigation menu",
+            "To include metadata and links to stylesheets",
+            "To define the footer section of a webpage"
+        ],
+        "answer": 3
+    },
+
+    {
+        "question": "Which of the following is a popular JavaScript library for building user interfaces?",
+        "options": [
+            "jQuery",
+            "Bootstrap",
+            "React",
+            "Angular"
+        ],
+        "answer": 2
+    },
+
+    {
+        "question": "What is the purpose of the <link> tag in HTML?",
+        "options": [
+            "To link external stylesheets",
+            "To create a navigation menu",
+            "To define the main content",
+            "To include metadata"
+        ],
+        "answer": 0
+    },
+
+    {
+        "question": "Which of the following is a CSS framework?",
+        "options": [
+            "Bootstrap",
+            "Django",
+            "Flask",
+            "Angular"
+        ],
+        "answer": 0
+    },
+
+    {
+        "question": "What is the purpose of the <nav> tag in HTML?",
+        "options": [
+            "To define a navigation menu",
+            "To include metadata",
+            "To create a footer",
+            "To link external stylesheets"
+        ],
+        "answer": 0
+    },
+
+    {
+        "question": "Which of the following is a popular front-end build tool?",
+        "options": [
+            "Webpack",
+            "Docker",
+            "Kubernetes",
+            "Nginx"
+        ],
+        "answer": 0
+    },
+
+    {
+        "question": "What is the purpose of the <img> tag in HTML?",
+        "options": [
+            "To create a link",
+            "To display images",
+            "To define a section",
+            "To include metadata"
+        ],
+        "answer": 1
+    },
+     {
+         "question": "What will be the output of the following JavaScript code?\n\nfunction trickyQuestion() {\n    var a = 1;\n    var b = 2;\n    return (function() {\n        delete a;\n        delete b;\n        return a + b;\n    })();\n}\nconsole.log(trickyQuestion());",
+        "options": [
+            "3",
+            "undefined",
+            "NaN",
+            "ReferenceError"
+        ],
+        "answer": 0
+    }
+
+   
+]
